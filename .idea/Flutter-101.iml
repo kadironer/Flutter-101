@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/bottom_navigation_bar_kullanimi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bottom_navigation_bar_kullanimi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bottom_navigation_bar_kullanimi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/drawer_kullanimi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/drawer_kullanimi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/drawer_kullanimi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/resim_ekleme/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/resim_ekleme/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/resim_ekleme/build" />
+      <excludeFolder url="file://$MODULE_DIR$/setState/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/setState/build" />
+      <excludeFolder url="file://$MODULE_DIR$/setState/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabpage_selector/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tabpage_selector/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabpage_selector/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/page_slider/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/page_slider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/page_slider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/card_kullanimi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/card_kullanimi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/card_kullanimi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/future_builder/build" />
+      <excludeFolder url="file://$MODULE_DIR$/future_builder/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/future_builder/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabs_kullanimi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tabs_kullanimi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabs_kullanimi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/form_kullanimi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/form_kullanimi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/form_kullanimi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/align_kullanimi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/align_kullanimi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/align_kullanimi/.dart_tool" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
