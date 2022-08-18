@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tabpage_selector/sayfa1.dart';
 
 void main() => runApp(const SimplePageSelector());
 
@@ -25,15 +24,16 @@ class _SimplePageSelectorState extends State<SimplePageSelector> {
           child: Builder(
             builder: (BuildContext context) => Column(
               children: <Widget>[
-                Container(
-                  width:MediaQuery.of(context).size.width,
-                  child: TabBarView(
+                TabBarView(
                     children: <Widget>[
-                      Sayfa1(),
                       Column(
                         children: const <Widget>[
-                          Icon(Icons.chrome_reader_mode),
-                          Text("You Can Run Codes And See Them!")
+                          
+                        ],
+                      ),
+                      Column(
+                        children: const <Widget>[
+                          Text("You Can Evaluate Yourself By Running Quizzes!")
                         ],
                       ),
                       Column(
@@ -43,7 +43,7 @@ class _SimplePageSelectorState extends State<SimplePageSelector> {
                       ),
                     ],
                   ),
-                ),
+
                 const TabPageSelector(),
               ],
             ),
