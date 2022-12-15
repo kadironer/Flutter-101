@@ -185,6 +185,9 @@
       <excludeFolder url="file://$MODULE_DIR$/popup_menu_kullanimi/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/popup_menu_kullanimi/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/popup_menu_kullanimi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/timer_kullanimi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/timer_kullanimi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/timer_kullanimi/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
